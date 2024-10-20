@@ -1,9 +1,9 @@
 ## What
-`usestata()` is a R function to read **Stata Manual's datasets** into R. The R **haven** package is used to achieve this goal.
+`usestata()` is a R function to read **Stata Manual's datasets** into R. 
 
-Here’s an English translation of the text you provided:
+The R **haven** package is used to achieve this goal.
 
----
+
 
 ## Usage
 
